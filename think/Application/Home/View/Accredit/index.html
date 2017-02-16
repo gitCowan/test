@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3 align="center">恭喜您授权成功</h3>
+<table border="1" align="center">
+    <tr>
+        <td colspan="2"><img src="{$resul.headimgurl}"/></td>
+    </tr>
+    <tr>
+        <td>姓名:</td>
+        <td>{$resul.nickname}</td>
+    </tr>
+    <tr>
+        <td>性别:</td>
+        <td>
+            <if condition="$resul['sex'] == 1">
+                男
+            <else/>
+                女
+            </if>
+        </td>
+    </tr>
+    <tr>
+        <td>住址:</td>
+        <td>{$resul.country}{$resul.province}{$resul.city}</td>
+    </tr>
+</table>
+</body>
+</html>

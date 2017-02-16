@@ -1,0 +1,1983 @@
+[ 2016-08-24T09:33:34+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-08-24T09:35:00+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 126 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:22:44+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 126 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:22:45+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 126 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:22:46+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 85 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 126 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:25:11+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:25:58+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: access_token D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 254 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T11:26:54+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:27:59+08:00 ] 127.0.0.1 /think/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:33:31+08:00 ] 127.0.0.1 /think/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:33:50+08:00 ] 127.0.0.1 /think/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:34:37+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:36:03+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T11:40:09+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_error(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+NOTIC: [2] curl_error(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T11:43:08+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T11:47:23+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 201 行.
+
+[ 2016-08-24T11:52:17+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 201 行.
+
+[ 2016-08-24T11:55:21+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 86 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:02+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:05+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:05+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T11:56:05+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-24T11:56:06+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:06+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:06+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-24T11:56:07+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:07+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T11:56:07+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:00:11+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:00+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+
+[ 2016-08-24T12:01:05+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:28+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:31+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:31+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:32+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:32+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:33+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-24T12:01:33+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:33+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:34+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:34+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:35+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:35+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:35+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:36+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:36+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:36+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:37+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:01:38+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:01:38+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:03:55+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-08-24T12:04:02+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:04:22+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:04:28+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:06:57+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T12:06:59+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:08:32+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-08-24T12:08:36+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:12:35+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 228 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T12:13:24+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:14:18+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 229 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T12:59:13+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T12:59:17+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T12:59:20+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T13:01:25+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T13:01:31+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-24T13:02:17+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T13:02:18+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T13:02:36+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 228 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:12:38+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:12:50+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 19 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 88 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 129 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T13:13:14+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:13:38+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T13:14:26+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T13:14:27+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:23:21+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:23:37+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-08-24T13:24:23+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:24:23+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:24:24+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T13:24:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T14:18:37+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018001s ]
+
+[ 2016-08-24T14:18:39+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T14:19:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T14:19:26+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T14:19:26+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T14:20:16+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T14:20:17+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T14:20:18+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T14:21:26+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T14:23:00+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T14:24:37+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-08-24T14:24:39+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T14:24:48+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:10:58+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-08-24T15:17:13+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:17:38+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:17:55+08:00 ] 127.0.0.1 /think/index.php/Index/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: access_token D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 256 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:19:38+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:03+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:04+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:20:04+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:24+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:20:24+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:20:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:20:26+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:16+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:16+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:17+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:28+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:29+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:29+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:29+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:30+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:31+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:31+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:32+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:32+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:32+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:32+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:32+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:33+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:21:33+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:33+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:21:33+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:22:11+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:22:24+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:22:25+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-24T15:25:13+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:25:15+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:26:35+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-08-24T15:26:53+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:27:12+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:27:24+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T15:29:55+08:00 ] 127.0.0.1 /think/index.php/Index/deFinedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T15:58:49+08:00 ] 127.0.0.1 /think/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: nonce D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: timestamp D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: echostr D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: signature D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 84 行.
+NOTIC: [8] Trying to get property of non-object D:\WWW\think\Application\Home\Controller\IndexController.class.php 第 125 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T16:18:51+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T16:19:39+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-24T16:20:37+08:00 ] 127.0.0.1 /think/index.php/Index/http_curls
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-24T16:24:07+08:00 ] 127.0.0.1 /think/index.php/Index/lain
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:lain
+
+[ 2016-08-24T16:24:13+08:00 ] 127.0.0.1 /think/index.php/Index/lianxi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

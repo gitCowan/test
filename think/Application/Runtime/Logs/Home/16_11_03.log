@@ -1,0 +1,1636 @@
+[ 2016-11-03T10:04:51+08:00 ] 127.0.0.1 /think/index.php/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:05:43+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-11-03T10:05:59+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-11-03T10:06:40+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:08:53+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T10:09:07+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:09:47+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:11:06+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T10:12:28+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T10:12:52+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:12:52+08:00 ] 127.0.0.1 /think/index.php/Login/Public/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:Public
+
+[ 2016-11-03T10:16:47+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:16:58+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T10:17:17+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T10:21:28+08:00 ] 127.0.0.1 /think/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T15:33:39+08:00 ] 127.0.0.1 /think/index.php?signature=9dfff2327332afe34f3451b3b5c010ee0be11265&timestamp=1478158386&nonce=445404949&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.023001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023001s ]
+
+[ 2016-11-03T15:33:47+08:00 ] 127.0.0.1 /think/index.php?signature=f01570bbd5633c924675970c1817b9ef7eeb42af&timestamp=1478158395&nonce=1267247088&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T15:33:49+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: nonce G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 17 行.
+NOTIC: [8] Undefined index: timestamp G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 19 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8] Undefined index: signature G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 90 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 168 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 170 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 206 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T15:34:05+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=011iLiCy1maTLe0yWlAy1aVjCy1iLiCn&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0810s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.019001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.019001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T15:34:06+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 17 行.
+NOTIC: [8] Undefined index: timestamp G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 19 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8] Undefined index: signature G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 90 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 168 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 170 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 206 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T15:34:08+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 58 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 89 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 60 行.
+SQL: SELECT * FROM `token` WHERE `openid` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T15:40:13+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=031WdZ1o1DAWym0Ta92o1vn42o1WdZ1R&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T15:40:33+08:00 ] 127.0.0.1 /think/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: nonce G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 17 行.
+NOTIC: [8] Undefined index: timestamp G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 19 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8] Undefined index: signature G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 90 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 168 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 169 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 170 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+NOTIC: [8] Trying to get property of non-object G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 206 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T15:40:50+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=031sawTS1EQ8s91X1xSS17IuTS1sawTi&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T15:42:06+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=0013HbFu1hApOa0yEfCu12maFu13HbFo&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:09:02+08:00 ] 127.0.0.1 /think/index.php?signature=bc7f0b0b5e307f83545d94a0a605823448332092&timestamp=1478164108&nonce=1053570622&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:10:24+08:00 ] 127.0.0.1 /think/index.php?signature=f98905e2911b81c37563f09a9ea823c13f686034&timestamp=1478164192&nonce=984828167&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:12:31+08:00 ] 127.0.0.1 /think/index.php?signature=743ffe376544f291a5de0d50a0374879cad5a111&timestamp=1478164319&nonce=1182956745&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:12:35+08:00 ] 127.0.0.1 /think/index.php/Accredit/base?code=001fBJHA0Fbyzc289wKA04ZEHA0fBJHD&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:12:42+08:00 ] 127.0.0.1 /think/index.php/Accredit/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:12:47+08:00 ] 127.0.0.1 /think/index.php/Accredit/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-03T17:12:51+08:00 ] 127.0.0.1 /think/index.php/Accredit/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:12:52+08:00 ] 127.0.0.1 /think/index.php/Accredit/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:13:22+08:00 ] 127.0.0.1 /think/index.php/Accredit/base?code=001k7hMa22Bc0R0qVpNa2dmdMa2k7hMZ&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:15:10+08:00 ] 127.0.0.1 /think/index.php?signature=28f62ad17c9c784ae40c5871e89d9eca9085c626&timestamp=1478164477&nonce=898936376&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:15:11+08:00 ] 127.0.0.1 /think/index.php/Accredit/base?code=041xgzpK1UBxn8012tqK1HQypK1xgzpU&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:15:46+08:00 ] 127.0.0.1 /think/index.php?signature=c6fb717e8bd3b64b4251f76e5bba20d0c5b6900e&timestamp=1478164514&nonce=100452013&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:15:50+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=021Lsneg1EMSUw0jaDfg1Haneg1LsneD&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:16:37+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=0016YYul0pkv6n1KTRsl08S1vl06YYun&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:34+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=011KPW4j24ozhH0MgD7j2jEZ4j2KPW4g&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:39+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=0315vXhh26sMlF0hNukh2P5Shh25vXhT&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:43+08:00 ] 127.0.0.1 /think/index.php/Accredit/index?code=011sP7TY0vgHA02v5sVY0Px9TY0sP7T8&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined offset: 0 G:\WWW\think\ThinkPHP\Library\Think\Db\Driver.class.php 第 803 行.
+SQL: INSERT INTO `token` (`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`) VALUES ('o9jo7w1-ym1RnHmhEoZ0HIuHmr7A','王朝正','1','zh_CN','安阳','河南','中国','http://wx.qlogo.cn/mmopen/457rAlI64X2G6JLtyiclya6wGia0G0foIicI4GBZTRwOIMv0QhPOojBnb5xaA4BKYyQjzBbDQu9kKwsBB8oNSaTmKJ10yzPvITl/0') [ RunTime:0.0210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:46+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 18 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 31 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 35 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 42 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 43 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: INSERT INTO `token` () VALUES () [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:54+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 18 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 31 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 35 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 42 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 43 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: INSERT INTO `token` () VALUES () [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:56+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 18 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 31 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 35 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 42 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 43 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: INSERT INTO `token` () VALUES () [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:18:57+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 18 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 31 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 35 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 42 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 43 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: INSERT INTO `token` () VALUES () [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:18:59+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 18 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 31 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 35 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 42 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 43 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 47 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: INSERT INTO `token` () VALUES () [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:19:01+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=0413tj590TddXs1nCL690bBq5903tj5x&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-03T17:19:06+08:00 ] 127.0.0.1 /think/index.php/Accredit/index?code=001nVcGf27nhSD0gC2Ff2W8aGf2nVcGo&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined offset: 0 G:\WWW\think\ThinkPHP\Library\Think\Db\Driver.class.php 第 803 行.
+SQL: INSERT INTO `token` (`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`) VALUES ('o9jo7w1-ym1RnHmhEoZ0HIuHmr7A','王朝正','1','zh_CN','安阳','河南','中国','http://wx.qlogo.cn/mmopen/457rAlI64X2G6JLtyiclya6wGia0G0foIicI4GBZTRwOIMv0QhPOojBnb5xaA4BKYyQjzBbDQu9kKwsBB8oNSaTmKJ10yzPvITl/0') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:19:44+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=001RwJJ10khjKD15XvJ100fJJ10RwJJ4&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:19:48+08:00 ] 127.0.0.1 /think/index.php/Accredit/index?code=041ubB530HSCUE1O3C5308FD530ubB59&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [8] Undefined offset: 0 G:\WWW\think\ThinkPHP\Library\Think\Db\Driver.class.php 第 803 行.
+SQL: INSERT INTO `token` (`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`) VALUES ('o9jo7w1-ym1RnHmhEoZ0HIuHmr7A','王朝正','1','zh_CN','安阳','河南','中国','http://wx.qlogo.cn/mmopen/457rAlI64X2G6JLtyiclya6wGia0G0foIicI4GBZTRwOIMv0QhPOojBnb5xaA4BKYyQjzBbDQu9kKwsBB8oNSaTmKJ10yzPvITl/0') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:20:16+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=0018v8tP0lMec92goktP0ej7tP08v8tf&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 273 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:28:31+08:00 ] 127.0.0.1 /think/index.php?signature=b1183180bdad6f83e1d6762a2e9e0049fe0284b2&timestamp=1478165278&nonce=2009069574&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:30:13+08:00 ] 127.0.0.1 /think/index.php?signature=b299282fbc2599d099da47f089fe3e48583a6504&timestamp=1478165381&nonce=634748214&openid=o9jo7wxN1maG8x4i6eXQUAQX1q6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:30:22+08:00 ] 127.0.0.1 /think/index.php?signature=334162bb04972d0e274d2e3abc48bff05001b162&timestamp=1478165390&nonce=56555024&openid=o9jo7wxN1maG8x4i6eXQUAQX1q6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:30:30+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=011dsUp52vH0yL0jIPp52G6Rp52dsUpw&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7wxN1maG8x4i6eXQUAQX1q6g' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:30:32+08:00 ] 127.0.0.1 /think/index.php/Accredit/index?code=001olz5n0wSeDo12Qk7n0WuG5n0olz5x&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 29 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 0 G:\WWW\think\ThinkPHP\Library\Think\Db\Driver.class.php 第 803 行.
+SQL: INSERT INTO `token` (`openid`,`nickname`,`sex`,`language`,`city`,`province`,`country`,`headimgurl`) VALUES ('o9jo7wxN1maG8x4i6eXQUAQX1q6g','马振杰','1','zh_CN','郑州','河南','中国','http://wx.qlogo.cn/mmopen/rVfWj5fr1PNOJFODysLZI2bYOWzEH9Vl2v5J1ibOPqFDDYwOMjgs2CrYVkwmicTZiadiaHaqoyJicIiauUk1umH6enKmG32Miazkr6T/0') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-03T17:31:36+08:00 ] 127.0.0.1 /think/index.php?signature=347389bec992a0664d8d7be77af3ab86ad587532&timestamp=1478165464&nonce=1488727605&openid=o9jo7wxN1maG8x4i6eXQUAQX1q6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:31:39+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=031GNSwx1b7bSd0ymGxx1vqVwx1GNSwZ&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7wxN1maG8x4i6eXQUAQX1q6g' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:32:57+08:00 ] 127.0.0.1 /think/index.php?signature=9e46f6635448a93afb6bb32b5df58f0219e08a7a&timestamp=1478165544&nonce=467682394&openid=o9jo7wxN1maG8x4i6eXQUAQX1q6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:33:00+08:00 ] 127.0.0.1 /think/index.php?signature=64c66e1c5f248cd32853fed039d633c416c6d5b0&timestamp=1478165548&nonce=529058959&openid=o9jo7wxN1maG8x4i6eXQUAQX1q6g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:43:11+08:00 ] 127.0.0.1 /think/index.php?signature=ca59ec7fd01bff8e768c9a8524bbfbfeccd84d51&timestamp=1478166155&nonce=1393309281&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 297 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:44:36+08:00 ] 127.0.0.1 /think/index.php?signature=70ca2caf22792eaf2e4a2303850af4576fdfde7e&timestamp=1478166244&nonce=35051727&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:44:40+08:00 ] 127.0.0.1 /think/index.php?signature=ab2e91232771962dc7642904a91b85aed1a88ed4&timestamp=1478166248&nonce=804257950&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-03T17:44:43+08:00 ] 127.0.0.1 /think/index.php/Accredit/ifnull?code=011PiHkC0GEgle2ufqkC0RcIkC0PiHkk&state=STATE%23wechat_edirect
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 270 行.
+SQL: SELECT * FROM `token` WHERE `openid` = 'o9jo7w1-ym1RnHmhEoZ0HIuHmr7A' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T17:44:45+08:00 ] 127.0.0.1 /think/index.php?signature=739bb189bcad14f09422b13596fbb0bda3290251&timestamp=1478166253&nonce=1370997498&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:47:12+08:00 ] 127.0.0.1 /think/index.php?signature=d474334574146a857c9fd366b1055a522381129d&timestamp=1478166399&nonce=624051770&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-03T17:47:22+08:00 ] 127.0.0.1 /think/index.php?signature=cb565e8e2b0bd4a3f75935a08adfe7b12511e652&timestamp=1478166409&nonce=1334314386&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T17:47:40+08:00 ] 127.0.0.1 /think/index.php?signature=f1ff086b6accabced3ccabda83eba6f8623d5185&timestamp=1478166428&nonce=1189256259&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T18:03:58+08:00 ] 127.0.0.1 /think/index.php?signature=7d76c08628f9b60650c4c27d39c8fb5ab4d8e496&timestamp=1478167404&nonce=565054583&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-03T20:17:00+08:00 ] 127.0.0.1 /think/index.php/Accredit/base
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-03T20:22:30+08:00 ] 127.0.0.1 /think/index.php?signature=4602c652ae34ce9c8b466f567231ad8ec1966352&timestamp=1478175718&nonce=1147303377&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:22:37+08:00 ] 127.0.0.1 /think/index.php?signature=d9d6b5d43623ef56cf7df4011de8fb27a07e1c83&timestamp=1478175725&nonce=2028494041&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:22:40+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.048002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.049002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.153009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.020001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:22:58+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T20:23:06+08:00 ] 127.0.0.1 /think/index.php?signature=30405195a7dcb40f681afa335d47a695896495dd&timestamp=1478175753&nonce=890032105&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-03T20:37:44+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.018001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.018001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:37:44+08:00 ] 127.0.0.1 /think/index.php?signature=3f086d855926674ed3233fe9cbc81956d2ecff62&timestamp=1478176629&nonce=2052263830&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:38:10+08:00 ] 127.0.0.1 /think/index.php?signature=404980c542e96b0fa8483c4ad3affa4ade1d8711&timestamp=1478176658&nonce=1816650573&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [2] sprintf(): Too few arguments G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 202 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-03T20:39:31+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:39:31+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:39:48+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:41:05+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:41:35+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:41:56+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-03T20:42:58+08:00 ] 127.0.0.1 /think/index.php/Accredit/shu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

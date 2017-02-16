@@ -1,0 +1,241 @@
+[ 2016-10-22T09:22:57+08:00 ] 127.0.0.1 /think/index.php?signature=ca2468b22e966f51161ff5f20c92ac94a5e50dea&timestamp=1477099347&nonce=926005777&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-10-22T09:23:03+08:00 ] 127.0.0.1 /think/index.php?signature=34396b81d79440ec2cd8f70073e94461246cbd90&timestamp=1477099354&nonce=1004822377&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T09:23:11+08:00 ] 127.0.0.1 /think/index.php?signature=4b2b37a6b494267acce799ab928c48c98249fcec&timestamp=1477099361&nonce=1087287170&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T09:23:45+08:00 ] 127.0.0.1 /think/index.php?signature=5d778eef8fa8418c90d2e4736410570d44aca8bb&timestamp=1477099396&nonce=1086768836&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T09:25:27+08:00 ] 127.0.0.1 /think/index.php/Accredit/index?code=011oAGlb2ze4ER06ionb286Llb2oAGlo&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.023001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.023001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-22T09:26:22+08:00 ] 127.0.0.1 /think/index.php/Accredit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: code G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 15 行.
+NOTIC: [2] curl_errno(): 26 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 23 行.
+NOTIC: [8] Undefined index: refresh_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 27 行.
+NOTIC: [2] curl_errno(): 27 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 34 行.
+NOTIC: [8] Undefined index: access_token G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 38 行.
+NOTIC: [8] Undefined index: openid G:\WWW\think\Application\Home\Controller\AccreditController.class.php 第 38 行.
+NOTIC: [2] curl_errno(): 28 is not a valid cURL handle resource G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 255 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: headimgurl G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 11 行.
+NOTIC: [8] Undefined index: nickname G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 15 行.
+NOTIC: [8] Undefined index: sex G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 20 行.
+NOTIC: [8] Undefined index: country G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: province G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+NOTIC: [8] Undefined index: city G:\WWW\think\Application\Runtime\Cache\Home\255fbfff1579d94f9ea125110ffd6da7.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T10:34:47+08:00 ] 127.0.0.1 /think/index.php?signature=3dfa924f94fc36c35eff50c161d7590553c4483a&timestamp=1477103656&nonce=974293756&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-22T10:34:53+08:00 ] 127.0.0.1 /think/index.php?signature=4109d1d6f578cdaa0c0e3851ab016da9960d1f14&timestamp=1477103664&nonce=67851105&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T10:34:55+08:00 ] 127.0.0.1 /think/index.php?signature=19355c770809f2bfb3a65fe8916a6cad5e632e38&timestamp=1477103665&nonce=899564834&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T10:35:04+08:00 ] 127.0.0.1 /think/index.php?signature=1a6a1b0dc279b495c095e659e43572af9d88cbe9&timestamp=1477103675&nonce=973519513&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-22T10:35:31+08:00 ] 127.0.0.1 /think/index.php?signature=97cf59a69435bc4bacec9cad1a6e30a0aa7aae0b&timestamp=1477103702&nonce=246649582&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-22T10:35:32+08:00 ] 127.0.0.1 /think/index.php?signature=20993c725c5d53eb25ee295533ae211af1ae0fcb&timestamp=1477103702&nonce=230423002&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T10:35:39+08:00 ] 127.0.0.1 /think/index.php?signature=5854713baf80af84be3a8430862d8ad5aebd444b&timestamp=1477103710&nonce=973151474&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-22T10:46:17+08:00 ] 127.0.0.1 /think/index.php?signature=d2cdeaf7fc51421b1d91140dea0cf5cbab23a1e2&timestamp=1477104347&nonce=477108508&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-22T17:06:26+08:00 ] 127.0.0.1 /think/index.php?signature=8ed20221cc09c12cade581a1f3f04d8b2523bb60&timestamp=1477127156&nonce=1437939884&openid=o9jo7w1-ym1RnHmhEoZ0HIuHmr7A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent G:\WWW\think\ThinkPHP\Common\functions.php 第 1283 行.
+NOTIC: [8] Undefined index: echostr G:\WWW\think\Application\Home\Controller\WeixinController.class.php 第 20 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
